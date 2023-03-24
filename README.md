@@ -10,8 +10,8 @@
 - How to work with git submodules
 
 ## Requirements
-- Ubuntu 14.04 LTS
-- GCC version 4.8.4 with flags: -Wall -Werror -Wextra and -pedantic
+- Ubuntu 20.04 LTS
+- GCC version 9.3.0 with flags: -Wall -Werror -Wextra and -pedantic
 
 ## Installation
 1. Clone the repository
@@ -76,6 +76,4 @@ vagrant@vagrant-ubuntu-trusty-64:~$
 - monty.h - *Header file; Contains function, struct and global variable declarations*
 - bytecodes - *A directory containing test files used while making this program*
 
-## Bugs
-No bugs found yet
-   
+
